@@ -84,7 +84,7 @@ public class main extends JFrame{
 		setVisible(true);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		add(panel);
- 
+ //O zamansa buraya bi yorum bırakarım değişiklik görmek için :)).
 	}
 	public static void main(String [] args){
 		main m = new main();
